@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scoryous.github.io/sitemap.html.gz
+Sitemap: https://scoryous.github.io/app/sitemap.html.gz
+Sitemap: https://scoryous.github.io/assets/sitemap.html.gz
+Sitemap: https://scoryous.github.io/css/sitemap.html.gz
+Sitemap: https://scoryous.github.io/data/sitemap.html.gz
+Sitemap: https://scoryous.github.io/includes/sitemap.html.gz
+Sitemap: https://scoryous.github.io/item/sitemap.html.gz
+Sitemap: https://scoryous.github.io/src/sitemap.html.gz
